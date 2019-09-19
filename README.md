@@ -3,6 +3,12 @@ Homework 1 Project
 
 Elevator in Electrical Engineering Building
 
+![Elevator_Gif](https://github.com/chloeosgood/cs3366HW1/blob/master/usingInterface.gif)
+
+![Outside_Interface](https://github.com/chloeosgood/cs3366HW1/blob/master/outsideInterface.jpeg)
+![Inside_Interface](https://github.com/chloeosgood/cs3366HW1/blob/master/interface.jpeg)
+
+
 This elevators control interface is not organized in the best way that it could be. 
 * The spacing of the signs on the 3rd row is cramped so it is not as obviously clear which button belongs to which control.
 * This spacing issue is caused by the fact all of the key switches, are not grouped together at the top or the bottom, but scatter across the 2. 
@@ -15,5 +21,7 @@ This elevators control interface is not organized in the best way that it could 
 * It will respond by lighting up when the button is pressed until the elevator reaches the floor selected.
 * Some common mistakes that could be made is having the rows and columns not make sense with the amount of buttons required, as well as having it where things are awkwardly spaced or aligned. 
 * The main improvement I strove to do was fix the spacing of the bottom line, as well as putting the label on the button itself. For this particular instance, having 2 rows of 3 makes sense especially since there is only 3 floors this particular elevator reaches. 
+
+![lowFidelity_Plan](https://github.com/chloeosgood/cs3366HW1/blob/master/lowfidelityprototype.jpeg)
 
 * In theroy when fully implemented it would say what floor was selected as well as what floor the elevator is currently at, on a speaker for those who can not see. 
